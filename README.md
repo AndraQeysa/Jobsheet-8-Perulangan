@@ -5,3 +5,6 @@
 
 # Tugas Nomor 2
 ![Alt Text](https://github.com/AndraQeysa/Jobsheet-8-Perulangan/blob/master/Tugas%20nomor%202.png)
+
+# Pertanyaan 
+![Alt Text](https://github.com/AndraQeysa/Jobsheet-8-Perulangan/blob/master/Tugas.docx)
