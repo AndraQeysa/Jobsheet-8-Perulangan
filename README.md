@@ -1,6 +1,4 @@
-# Jobsheet-8-Perulangan
-
-#Loop While
+# Loop While
 ![Alt Text](https://github.com/AndraQeysa/Jobsheet-8-Perulangan/blob/master/Uncounted%20Loop%20While.png)
 
 # Tugas Nomor 1
